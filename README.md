@@ -1,2 +1,2 @@
 # TelegramCurrensyBot
-# Bot token and name must be taken in phaser bot
+# Bot token and name must be taken in @BotFather
